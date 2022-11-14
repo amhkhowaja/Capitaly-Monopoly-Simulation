@@ -1,17 +1,15 @@
-2
+7
 P Budapest
 L Lottery 500
 S Penalty 500
 P Debrecen
 P Sopron
 L Lotto 250
-P Miskolc
 S Loan 250
-P Szeged
 3
-G Zain
-C Aadarsh
-T Ali
+G Murad
+T Vugar
+C Makhlug
 1000
 6
 12
